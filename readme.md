@@ -23,8 +23,8 @@ This is the seventh project among the 15 Ineuron-projects.
 
 ### Links
 
-- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-02)
-- Live Site URL: [netlify.app](https://project-02-restaurant.netlify.app/)
+- Code File URL: [github.com](https://github.com/Jyotimoykathar/Project-07)
+- Live Site URL: [netlify.app](https://project-07-product-page.netlify.app/)
 
 ## My process
 
